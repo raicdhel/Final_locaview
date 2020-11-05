@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: locaview
-          image: username/locaview:latest
+          image: admin32.azurecr.io/locaview:latest
           ports:
             - containerPort: 8080
           readinessProbe:

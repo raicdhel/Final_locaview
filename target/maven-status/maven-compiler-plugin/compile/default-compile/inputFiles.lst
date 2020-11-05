@@ -1,8 +1,8 @@
-C:\Azure\pizza\locaview\src\main\java\pizza\AbstractEvent.java
-C:\Azure\pizza\locaview\src\main\java\pizza\config\kafka\KafkaProcessor.java
-C:\Azure\pizza\locaview\src\main\java\pizza\LocaviewApplication.java
-C:\Azure\pizza\locaview\src\main\java\pizza\LocaViewRepository.java
-C:\Azure\pizza\locaview\src\main\java\pizza\LocaViewViewHandler.java
-C:\Azure\pizza\locaview\src\main\java\pizza\PolicyHandler.java
-C:\Azure\pizza\locaview\src\main\java\pizza\LocationSaved.java
-C:\Azure\pizza\locaview\src\main\java\pizza\LocaView.java
+C:\Azure\pizza\Final_locaview\src\main\java\pizza\LocaViewViewHandler.java
+C:\Azure\pizza\Final_locaview\src\main\java\pizza\LocaViewRepository.java
+C:\Azure\pizza\Final_locaview\src\main\java\pizza\PolicyHandler.java
+C:\Azure\pizza\Final_locaview\src\main\java\pizza\LocationSaved.java
+C:\Azure\pizza\Final_locaview\src\main\java\pizza\LocaviewApplication.java
+C:\Azure\pizza\Final_locaview\src\main\java\pizza\LocaView.java
+C:\Azure\pizza\Final_locaview\src\main\java\pizza\config\kafka\KafkaProcessor.java
+C:\Azure\pizza\Final_locaview\src\main\java\pizza\AbstractEvent.java
