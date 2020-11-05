@@ -1,0 +1,9 @@
+pizza\AbstractEvent$1.class
+pizza\PolicyHandler.class
+pizza\LocaViewRepository.class
+pizza\LocaViewViewHandler.class
+pizza\config\kafka\KafkaProcessor.class
+pizza\LocaviewApplication.class
+pizza\AbstractEvent.class
+pizza\LocationSaved.class
+pizza\LocaView.class
